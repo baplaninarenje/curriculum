@@ -92,6 +92,8 @@ There will come a time when you are working on a project and you FINALLY get som
 
 2. You could offer more practical exercises. For example, ask students to improve several bad commit messages.
 
+3. Clarify installation steps in README for new users.
+
 </div>
 
 #### Tips and things to remember
